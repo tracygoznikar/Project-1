@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -1282,6 +1283,8 @@
 </html>
 
 =======
+=======
+>>>>>>> 39c3a15a0a26b9a1720dbdbaae5cd96c26baa873
 ,ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Type,Directors,Genres,Country,Language,Runtime
 0,1,Inception,2010,13+,8.8,87%,1,0,0,0,0,Christopher Nolan,"Action,Adventure,Sci-Fi,Thriller","United States,United Kingdom","English,Japanese,French",148
 1,2,The Matrix,1999,18+,8.7,87%,1,0,0,0,0,"Lana Wachowski,Lilly Wachowski","Action,Sci-Fi",United States,English,136
@@ -18026,5 +18029,9 @@
 16740,16741,The Poof Point,2001,7+,4.7,,0,0,0,1,0,Neal Israel,"Comedy,Family,Sci-Fi",United States,English,90
 16741,16742,Sharks of Lost Island,2013,,5.7,,0,0,0,1,0,Neil Gelinas,Documentary,United States,English,
 16742,16743,Man Among Cheetahs,2017,,6.6,,0,0,0,1,0,Richard Slater-Jones,Documentary,United States,English,
+<<<<<<< HEAD
 16743,16744,In Beaver Valley,1950,,,,0,0,0,1,0,James Algar,"Documentary,Short,Family",United States,English,32
 >>>>>>> 7f943fd... csv
+=======
+16743,16744,In Beaver Valley,1950,,,,0,0,0,1,0,James Algar,"Documentary,Short,Family",United States,English,32
+>>>>>>> 39c3a15a0a26b9a1720dbdbaae5cd96c26baa873
