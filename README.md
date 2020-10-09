@@ -28,7 +28,11 @@
 
   <meta name="viewport" content="width=device-width">
   
+<<<<<<< HEAD
   <title>Project-1/README.md at Wei-branch · tracygoznikar/Project-1</title>
+=======
+  <title>Project-1/README.md at tracy-branch · tracygoznikar/Project-1</title>
+>>>>>>> 7f943fd... csv
     <meta name="description" content="Data Bootcamp Project 1. Contribute to tracygoznikar/Project-1 development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -43,10 +47,17 @@
   
 
   <link rel="assets" href="https://github.githubassets.com/">
+<<<<<<< HEAD
     <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/69022168/ws?session=eyJ2IjoiVjMiLCJ1Ijo2OTAyMjE2OCwicyI6NTY0ODUwMTYzLCJjIjoyNzA4NzMxNzY3LCJ0IjoxNjAyMjEwMTQ0fQ==--2d9a10ffcd15a25d6544c3184b7a5494d1e16fb532174a2845d52e04f9c82b51" data-refresh-url="/_alive">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
   <meta name="request-id" content="A794:0528:9DAE6F:EF7B4A:5F7FC959" data-pjax-transient="true" /><meta name="html-safe-nonce" content="6621d80455b572270b5462e4aa366c4f47981539" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS90cmFjeWdvem5pa2FyL1Byb2plY3QtMS90cmVlL1dlaS1icmFuY2giLCJyZXF1ZXN0X2lkIjoiQTc5NDowNTI4OjlEQUU2RjpFRjdCNEE6NUY3RkM5NTkiLCJ2aXNpdG9yX2lkIjoiMjYwMjczNzAyNTMwNjEzMjUiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="620db9f6aab7a7b409cc0a403402bced120ac38c268f652a55075edcaab508e3" data-pjax-transient="true" /><meta name="cookie-consent-required" content="false" />
+=======
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/69022168/ws?session=eyJ2IjoiVjMiLCJ1Ijo2OTAyMjE2OCwicyI6NTY0ODUwMTYzLCJjIjoyOTg0MTk0MzQ0LCJ0IjoxNjAyMjA5ODAyfQ==--b59e4652d5f68b59cf227eced4269cd59461543729d47bd7ae2eddc8fe8a92f1" data-refresh-url="/_alive">
+  <link rel="sudo-modal" href="/sessions/sudo_modal">
+
+  <meta name="request-id" content="77C7:7F25:5F6124:A14E44:5F7FC7F9" data-pjax-transient="true" /><meta name="html-safe-nonce" content="6621d80455b572270b5462e4aa366c4f47981539" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS90cmFjeWdvem5pa2FyL1Byb2plY3QtMS90cmVlL3RyYWN5LWJyYW5jaCIsInJlcXVlc3RfaWQiOiI3N0M3OjdGMjU6NUY2MTI0OkExNEU0NDo1RjdGQzdGOSIsInZpc2l0b3JfaWQiOiIyNjAyNzM3MDI1MzA2MTMyNSIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="90f4a0d7d21e987f8c04de1223e9ef8aa0d59136c70e2b218d7f358789200451" data-pjax-transient="true" /><meta name="cookie-consent-required" content="false" />
+>>>>>>> 7f943fd... csv
 
     <meta name="hovercard-subject-tag" content="repository:302486898" data-pjax-transient>
 
@@ -90,21 +101,33 @@
 
       <meta name="expected-hostname" content="github.com">
 
+<<<<<<< HEAD
       <meta name="js-proxy-site-detection-payload" content="YTFiZjcxODQyYWZmZGNkMjQwMjViZjFkYjRjZWM1NTQ3Y2Q3Y2ZjZTcyYmI0MjY3MDQzNmM3YTIwZWQ3NThjMHx7InJlbW90ZV9hZGRyZXNzIjoiMTY1LjEyNC4xNjcuMiIsInJlcXVlc3RfaWQiOiJBNzk0OjA1Mjg6OURBRTZGOkVGN0I0QTo1RjdGQzk1OSIsInRpbWVzdGFtcCI6MTYwMjIxMDE0NCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+=======
+      <meta name="js-proxy-site-detection-payload" content="NmEwZjFhM2Q5ODBiZGZhM2U3NTA2OGEwYjlkYzk1NTdkNzJmM2YzZTc3Mjc5Nzc2MjU0OGJjYzkxOWQ5YWM1YXx7InJlbW90ZV9hZGRyZXNzIjoiMTY1LjEyNC4xNjcuMiIsInJlcXVlc3RfaWQiOiI3N0M3OjdGMjU6NUY2MTI0OkExNEU0NDo1RjdGQzdGOSIsInRpbWVzdGFtcCI6MTYwMjIwOTgwMiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+>>>>>>> 7f943fd... csv
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_HTTP_CACHE_HEADERS">
 
   <meta http-equiv="x-pjax-version" content="82e685648a7d8de2e5c4c4d46c615979a41d1051216418a570c503cc5f907d39">
   
 
+<<<<<<< HEAD
         <link href="https://github.com/tracygoznikar/Project-1/commits/Wei-branch.atom" rel="alternate" title="Recent Commits to Project-1:Wei-branch" type="application/atom+xml">
+=======
+        <link href="https://github.com/tracygoznikar/Project-1/commits/tracy-branch.atom" rel="alternate" title="Recent Commits to Project-1:tracy-branch" type="application/atom+xml">
+>>>>>>> 7f943fd... csv
 
   <meta name="go-import" content="github.com/tracygoznikar/Project-1 git https://github.com/tracygoznikar/Project-1.git">
 
   <meta name="octolytics-dimension-user_id" content="68292122" /><meta name="octolytics-dimension-user_login" content="tracygoznikar" /><meta name="octolytics-dimension-repository_id" content="302486898" /><meta name="octolytics-dimension-repository_nwo" content="tracygoznikar/Project-1" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="302486898" /><meta name="octolytics-dimension-repository_network_root_nwo" content="tracygoznikar/Project-1" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
+<<<<<<< HEAD
     <link rel="canonical" href="https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md" data-pjax-transient>
+=======
+    <link rel="canonical" href="https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md" data-pjax-transient>
+>>>>>>> 7f943fd... csv
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -175,7 +198,11 @@
           spellcheck="false"
           autocomplete="off"
           >
+<<<<<<< HEAD
           <input type="hidden" value="vusIHUOyLMQgoL2HEm9rW+UC+SxJyytFSweAHXYbg2U4/vjcANdqjJpWpnXk2j+RtnBcb8PIDOySgOzihECYZA==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+=======
+          <input type="hidden" value="tGQy9+Hf3zs1zfeyYNKunt6+zJ6VOFaya5p39VYRoU4yccI2orqZc4877ECWZ/pUjcxp3R87cRuyHRsKpEq6Tw==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+>>>>>>> 7f943fd... csv
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -326,7 +353,11 @@
       <img class="avatar avatar-user" src="https://avatars1.githubusercontent.com/u/69022168?s=40&amp;v=4" width="20" height="20" alt="@wzhu0815" />
       wzhu0815
 </a>
+<<<<<<< HEAD
     <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="6rx50L2U/1/DJEXFhc6Yjk/h7dn48+ylrJQj/HldK+hsKIyYW0+toqeHqvHv0i7c0l5N7AAh5rtaXfDXfzpjIA==" />
+=======
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="IwTbsRPfMWe6NpuQQLuOX97FdzY1tl0P1J9uH/xxY/WlkC759QRjmt6VdKQqpzgNQ3rXA81kVxEiVr00+hYrPQ==" />
+>>>>>>> 7f943fd... csv
       <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -346,7 +377,11 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
       
 
+<<<<<<< HEAD
     <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NjkwMjIxNjgiLCJ0IjoxNjAyMjEwMTQ0fQ==--6b8b30033eeffb388a9570c396e383e93aa388a1436c0c0fd1fb2d880a34590e">
+=======
+    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NjkwMjIxNjgiLCJ0IjoxNjAyMjA5ODAyfQ==--1e47f78651b45a6c8cd4d2c8bd7ee872aa885e3cd8aad1503d0f4a5d85e8e9f9">
+>>>>>>> 7f943fd... csv
       <a href="/notifications"
          class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
          
@@ -429,7 +464,11 @@
   data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
     <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit "
+<<<<<<< HEAD
       role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:68292122,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:69022168,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md&quot;}}" data-hydro-click-hmac="51c053cc541456d592437c52d19db668bd819c171104172b45fd441a0c1d2bbe">
+=======
+      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:68292122,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:69022168,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;}}" data-hydro-click-hmac="37645e650d0936ad1ee52598edb772adcf88d6703274839f0326fec251fc26e8">
+>>>>>>> 7f943fd... csv
       <div class="d-flex flex-items-center flex-items-stretch">
         <div class="f6 lh-condensed user-status-header d-flex user-status-emoji-only-header circle">
           <div class="user-status-emoji-container flex-shrink-0 mr-2 d-flex flex-items-center flex-justify-center lh-condensed-ultra v-align-bottom">
@@ -447,7 +486,11 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
+<<<<<<< HEAD
       <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?circle=0&amp;compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="vAytk2wnO8YrK5D1iE8iy9l2fY1QsuXdXxXOdP3bYWeSB3QUNpoytrPJNTEzQZ6foiitM7ECPZu8gfh9lLfFPg==" />
+=======
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?circle=0&amp;compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="OqoLlxV+mazm8gZwkkyikWbrGgBIFZ3t8migENalVC4UodIQT8OQ3H4Qo7QpQh7FHbXKvqmlRasR/JYZv8nwdw==" />
+>>>>>>> 7f943fd... csv
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
@@ -565,17 +608,29 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
+<<<<<<< HEAD
           <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-10-08T21:52:24-05:00">
+=======
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-10-08T21:46:42-05:00">
+>>>>>>> 7f943fd... csv
             in 30 minutes
           </button>
         </li>
         <li>
+<<<<<<< HEAD
           <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-10-08T22:22:24-05:00">
+=======
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-10-08T22:16:42-05:00">
+>>>>>>> 7f943fd... csv
             in 1 hour
           </button>
         </li>
         <li>
+<<<<<<< HEAD
           <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-10-09T01:22:24-05:00">
+=======
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-10-09T01:16:42-05:00">
+>>>>>>> 7f943fd... csv
             in 4 hours
           </button>
         </li>
@@ -611,6 +666,7 @@
       </div>
       <div role="none" class="dropdown-divider"></div>
 
+<<<<<<< HEAD
     <a role="menuitem" class="dropdown-item" href="/wzhu0815" data-ga-click="Header, go to profile, text:your profile" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md&quot;,&quot;target&quot;:&quot;YOUR_PROFILE&quot;,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="d76786ccaa61eb4ed7e2e8b27ea4f9f11f34d7b0e938384f15d9f3f94907ddcb" >Your profile</a>
 
     <a role="menuitem" class="dropdown-item" href="/wzhu0815?tab=repositories" data-ga-click="Header, go to repositories, text:your repositories" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md&quot;,&quot;target&quot;:&quot;YOUR_REPOSITORIES&quot;,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="f5078d0d1b29e1ebe15bb938393eb5ad9e38f4c8d80edb2c9e78888feefd9e6c" >Your repositories</a>
@@ -622,13 +678,30 @@
 
     <a role="menuitem" class="dropdown-item" href="/wzhu0815?tab=stars" data-ga-click="Header, go to starred repos, text:your stars" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md&quot;,&quot;target&quot;:&quot;YOUR_STARS&quot;,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="8bd8ae5850d63332a31625df06d119930b6b91df7393fcfa26be93f6fd1dc2b0" >Your stars</a>
       <a role="menuitem" class="dropdown-item" href="https://gist.github.com/mine" data-ga-click="Header, your gists, text:your gists" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md&quot;,&quot;target&quot;:&quot;YOUR_GISTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="8fe65eb2a865a89583c084c080f83988501bba3f33c916c84ea5f6c7921c4cc7" >Your gists</a>
+=======
+    <a role="menuitem" class="dropdown-item" href="/wzhu0815" data-ga-click="Header, go to profile, text:your profile" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;target&quot;:&quot;YOUR_PROFILE&quot;,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="e954e7baf798351ecc56ad91b05331696137e85890c50e56fed526c1e6263422" >Your profile</a>
+
+    <a role="menuitem" class="dropdown-item" href="/wzhu0815?tab=repositories" data-ga-click="Header, go to repositories, text:your repositories" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;target&quot;:&quot;YOUR_REPOSITORIES&quot;,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="30fe2b34531b335271670fc8ed6f6e3d4787ca5cf2064be8f7d315144a25ea4c" >Your repositories</a>
+
+
+
+    <a role="menuitem" class="dropdown-item" href="/wzhu0815?tab=projects" data-ga-click="Header, go to projects, text:your projects" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;target&quot;:&quot;YOUR_PROJECTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="95b90d89860bdb5e97f901d7261aef881c531480cd33d46ddb8faa8e722db6b1" >Your projects</a>
+
+
+    <a role="menuitem" class="dropdown-item" href="/wzhu0815?tab=stars" data-ga-click="Header, go to starred repos, text:your stars" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;target&quot;:&quot;YOUR_STARS&quot;,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="fc96e69fb84f91fb14e420ade8e3dd81a39d981741e2238d3e083c706b9d2b63" >Your stars</a>
+      <a role="menuitem" class="dropdown-item" href="https://gist.github.com/mine" data-ga-click="Header, your gists, text:your gists" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;target&quot;:&quot;YOUR_GISTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="a5b2e7299c8395f11aaeab147780d9998b80b0521a91300199fc62baa618903d" >Your gists</a>
+>>>>>>> 7f943fd... csv
 
 
 
 
 
     <div role="none" class="dropdown-divider"></div>
+<<<<<<< HEAD
       <a role="menuitem" class="dropdown-item" href="/settings/billing" data-ga-click="Header, go to billing, text:upgrade" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md&quot;,&quot;target&quot;:&quot;UPGRADE&quot;,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="e4e30aa134fdc154413288581362ea1ba0332d59da073d33722752eb0e169c6d" >Upgrade</a>
+=======
+      <a role="menuitem" class="dropdown-item" href="/settings/billing" data-ga-click="Header, go to billing, text:upgrade" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;target&quot;:&quot;UPGRADE&quot;,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="c8fbce50a53c6f138fd84ac7249aec7703033f0b23d2fc36004ba3963f9b4ab7" >Upgrade</a>
+>>>>>>> 7f943fd... csv
       
 <div id="feature-enrollment-toggle" class="hide-sm hide-md feature-preview-details position-relative">
   <button
@@ -636,16 +709,24 @@
     class="dropdown-item btn-link"
     role="menuitem"
     data-feature-preview-trigger-url="/users/wzhu0815/feature_previews"
+<<<<<<< HEAD
     data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md&quot;,&quot;user_id&quot;:69022168}}"
     data-feature-preview-close-hmac="edbfb0a71bbe13f1cdfefdb757cc39c4ecede0109cb8ca660cb05617dab37c33"
     data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md&quot;,&quot;user_id&quot;:69022168}}"
     data-hydro-click-hmac="b6cdea7e0a6e2a9343a4732f0a49b4f358a8deabf50644e4175c28698ccc7f3f"
+=======
+    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;user_id&quot;:69022168}}"
+    data-feature-preview-close-hmac="ce9eaf5b472878650c793198c73594b8d230fd1fa6c1a607f96e7940b5e71dd1"
+    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;user_id&quot;:69022168}}"
+    data-hydro-click-hmac="ab8ae66189ed5949cba38b89dbe8997d5e9b9af67c10c74f34090dedbce60262"
+>>>>>>> 7f943fd... csv
   >
     Feature preview
   </button>
     <span class="feature-preview-indicator js-feature-preview-indicator" hidden></span>
 </div>
 
+<<<<<<< HEAD
     <a role="menuitem" class="dropdown-item" href="https://docs.github.com" data-ga-click="Header, go to help, text:help" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md&quot;,&quot;target&quot;:&quot;HELP&quot;,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="7f62d2df5d4dcaf55db07949f3750029292cc44910a797800eea9079a86ddb74" >Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md&quot;,&quot;target&quot;:&quot;SETTINGS&quot;,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="bf9ec5b96b4fa6795a8ca36bdd26ce9a27d743f13a15b9eb9de3a5d25f0600f5" >Settings</a>
     <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="pAST3kQwp0/Iq/AWpc1FUNee0Kq2axXo6K9g9x0h6oQikGaWouv1sqwIHyLP0fMCSiFwn065H/YeZrPcG0aiTA==" />
@@ -654,6 +735,16 @@
         Sign out
       </button>
       <input type="text" name="required_field_835f" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1602210144941" class="form-control" /><input type="hidden" name="timestamp_secret" value="6683579e56a4d5a4da102d650f9b5715e0406ee68a02ec2e150de18e0a704d3d" class="form-control" />
+=======
+    <a role="menuitem" class="dropdown-item" href="https://docs.github.com" data-ga-click="Header, go to help, text:help" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;target&quot;:&quot;HELP&quot;,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="d1ac5988ae05509f9412b853b18e4624e4ca73bc2a150d75caaa70db98435518" >Help</a>
+    <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;target&quot;:&quot;SETTINGS&quot;,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="e24cc13961f97af2e5ff15ccd0785d9404ffc459bb67ea9f027de6c1e8556dfd" >Settings</a>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lxhwYhYnPjIeh62RHqRjwwtxXPV/ksWdo1Sv7M6lZmIRjIUq8Pxsz3okQqV0uNWRls78wIdAz4NVnXzHyMIuqg==" />
+      
+      <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;target&quot;:&quot;SIGN_OUT&quot;,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="4c5ef12330dc2f354a6aa5662d50fe42a304d116a6aaf1cec21ae1fc4a81723d"  role="menuitem">
+        Sign out
+      </button>
+      <input type="text" name="required_field_3922" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1602209802398" class="form-control" /><input type="hidden" name="timestamp_secret" value="61f191e2a63bbc4c3e4438da372df9d26cb612553e9eaf31aaa93ee4a56772ab" class="form-control" />
+>>>>>>> 7f943fd... csv
 </form>  </details-menu>
 </details>
 
@@ -713,10 +804,17 @@
       <p class="shelf-lead">
           Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
       </p>
+<<<<<<< HEAD
       <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:302486898,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="cef53791ec2112767c31298b407b6ab1b014fef8f92fb59c8b3cb52bc6d1d731" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
     </div>
     <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="8MdrQbH8H7x5yDNd+E+I9qNkXONIQjDPwbIdZybfZRQiA3Jjp2Yc8aVeMrBSoPylim2QrX2/gN8jIlqjgAyOGw==" />
       <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:302486898,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="f6227e49cb5b795fa81e97a7f617fb80c2c7015f59ed109c016ca25e844ef9b3">
+=======
+      <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:302486898,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="b07cba9dcaaf7c84bd5d552c742d96d522a7c7bd6b0dd8f839322ef948dc5057" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
+    </div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="AzSAH6DYWwJ+mT1DVWLQjSaWkERHSjy+WK/oEy8dg2bR8Jk9tkJYT6IPPK7/jaTeD59cCnK3jK66P6/Xic5oaQ==" />
+      <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:302486898,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="9b2016d5e96876220161e0c8a5a634cd7024fd05789b2e734c5822ee001b3077">
+>>>>>>> 7f943fd... csv
         <svg aria-label="Hide this notice forever" class="octicon octicon-x v-align-text-top" viewBox="0 0 16 16" version="1.1" width="16" height="16" role="img"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
 </button></form>  </div>
 </div>
@@ -752,10 +850,17 @@
           <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 
   <li>
+<<<<<<< HEAD
             <form data-remote="true" class="d-flex js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="xr7HyXECeU8luYBKyDng/DBGwr95ukjOBVmI4hZ34OYXUdKs9McuU2vm8BMRkZt/Dm3stPUkfxlUb0YVahNjQA==" />      <input type="hidden" name="repository_id" value="302486898">
 
       <details class="details-reset details-overlay select-menu hx_rsm">
         <summary class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:302486898,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="4e590cb44978e6e3d1bd5f8789b767d6cf13cc0d71de95e47a7ea357e6b42993" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+=======
+            <form data-remote="true" class="d-flex js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="NM0FMWAnu5bp+rLUnCykhO17nOpngYQ4c5P0UlgvvlzlIhBU5eLsiqelwo1FhN8H01Cy4esfs+8ipTqlJEs9+g==" />      <input type="hidden" name="repository_id" value="302486898">
+
+      <details class="details-reset details-overlay select-menu hx_rsm">
+        <summary class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:302486898,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="3e591cd8f15e2d6cad72cedb94c0ae220aabcaccffecc7a3f37b8b625c517f62" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+>>>>>>> 7f943fd... csv
               <svg height="16" class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"></path></svg>
               Watch
           </span>
@@ -827,18 +932,30 @@
 
   <li>
         <div class="js-toggler-container js-social-container starring-container ">
+<<<<<<< HEAD
     <form class="starred js-social-form" action="/tracygoznikar/Project-1/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="M5z5EumuUnIW03Jkhe2HaA9zqarkmxsyhwgaFMndA0nj8wi9+/4vVUfMHTz9LiZbTFy5td9fEWhTpWdm8lxskQ==" />
       <input type="hidden" name="context" value="repository"></input>
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar tracygoznikar/Project-1" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:302486898,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="29a4dc932f165e3e9e101e75e4e7d13c25ca8f972999a36781a24e161d6edfb1" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg height="16" class="octicon octicon-star-fill" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
+=======
+    <form class="starred js-social-form" action="/tracygoznikar/Project-1/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QjP5c+GMZ8igD4+g/LAjB/tU+EMeklJt+9DuEZCmCVCSXAjc89wa7/EQ4PiEc4I0uHvoXCVWWDcvfZNjqydmiA==" />
+      <input type="hidden" name="context" value="repository"></input>
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar tracygoznikar/Project-1" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:302486898,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="58b6bfa5c0d8462f5909703f0fabd3b565a3b07a6a409a670f7b5ea34962e04f" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg height="16" class="octicon octicon-star-fill" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
+>>>>>>> 7f943fd... csv
         Unstar
 </button>        <a class="social-count js-social-count" href="/tracygoznikar/Project-1/stargazers"
            aria-label="0 users starred this repository">
            0
         </a>
 </form>
+<<<<<<< HEAD
     <form class="unstarred js-social-form" action="/tracygoznikar/Project-1/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="EMqGyB9vB9TOiRXKr2ufPcNGF+14c4xBTqRXC7lmzMQH/4KSrQ9qhA7blcARHqe5aBQO/7gzGS3QhEoOPuYUfQ==" />
       <input type="hidden" name="context" value="repository"></input>
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star tracygoznikar/Project-1" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:302486898,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="a3daed19597bee407f7a4e0934bfc1cb422727ba632d9400e3b3de0f7954de2c" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg height="16" class="octicon octicon-star" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
+=======
+    <form class="unstarred js-social-form" action="/tracygoznikar/Project-1/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="XHWYNii/0V0AH3uQJeYnOIqAyv16Y08G6LSZcmL8lspLQJxsmt+8DcBN+5qbkx+8IdLT77oj2mp2lIR35XxOcw==" />
+      <input type="hidden" name="context" value="repository"></input>
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star tracygoznikar/Project-1" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:302486898,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="57ce1e59c6fde69f3dbdde4a7bd23b9addec055ba5d2b570bca68c24ae46b1a7" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg height="16" class="octicon octicon-star" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
+>>>>>>> 7f943fd... csv
         Star
 </button>        <a class="social-count js-social-count" href="/tracygoznikar/Project-1/stargazers"
            aria-label="0 users starred this repository">
@@ -849,8 +966,13 @@
   </li>
 
   <li>
+<<<<<<< HEAD
             <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/tracygoznikar/Project-1/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="H6xrbBJHcSGYtcoq51uWsaN68DGBOIlObPvNTiBuomeBYSpqlGNdHFmQox269usIULmE56dEeIDlcF4uRijUKg==" />
               <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:302486898,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="5448f8a6d67dad6ddd6fc60e70bac9fa3721982bfa7865869f66c9fc47161aec" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of tracygoznikar/Project-1 to your account" aria-label="Fork your own copy of tracygoznikar/Project-1 to your account">                <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
+=======
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/tracygoznikar/Project-1/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="zbaF5HIZO7TmnUjjEOX28W/qJR73t61YYLIhHtEWW0hTe8Ti9D0XiSe4IdRNSItInClRyNHLXJbpObJ+t1AtBQ==" />
+              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:302486898,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="75e7279d8eb7889ece290920ce4884a4f9aeef211ae2aa8c9fe0c5b0cadf5476" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of tracygoznikar/Project-1 to your account" aria-label="Fork your own copy of tracygoznikar/Project-1 to your account">                <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
+>>>>>>> 7f943fd... csv
                 Fork
 </button></form>
       <a href="/tracygoznikar/Project-1/network/members" class="social-count"
@@ -865,7 +987,11 @@
 <nav aria-label="Repository" data-pjax="#js-repo-pjax-container" class="js-repo-nav js-sidenav-container-pjax js-responsive-underlinenav overflow-hidden UnderlineNav px-3 px-md-4 px-lg-5 bg-gray-light">
   <ul class="UnderlineNav-body list-style-none ">
           <li class="d-flex">
+<<<<<<< HEAD
         <a class="js-selected-navigation-item selected UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="code-tab" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /tracygoznikar/Project-1/tree/Wei-branch" href="/tracygoznikar/Project-1/tree/Wei-branch">
+=======
+        <a class="js-selected-navigation-item selected UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="code-tab" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /tracygoznikar/Project-1/tree/tracy-branch" href="/tracygoznikar/Project-1/tree/tracy-branch">
+>>>>>>> 7f943fd... csv
               <svg classes="UnderlineNav-octicon" display="none inline" height="16" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path></svg>
             <span data-content="Code">Code</span>
               <span title="Not available" class="Counter "></span>
@@ -925,7 +1051,11 @@
   
             <ul>
                 <li data-menu-item="code-tab" hidden>
+<<<<<<< HEAD
                   <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /tracygoznikar/Project-1/tree/Wei-branch" href="/tracygoznikar/Project-1/tree/Wei-branch">
+=======
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /tracygoznikar/Project-1/tree/tracy-branch" href="/tracygoznikar/Project-1/tree/tracy-branch">
+>>>>>>> 7f943fd... csv
                     Code
 </a>                </li>
                 <li data-menu-item="issues-tab" hidden>
@@ -973,9 +1103,15 @@
   
 
 
+<<<<<<< HEAD
     <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/tracygoznikar/Project-1/blob/7f943fd7e306d341bfbb3db9120ebc857e08c9d9/README.md">Permalink</a>
 
     <!-- blob contrib key: blob_contributors:v22:9a9bf8e0a10ceccab7ff89c15755b2815ededd7f149a8255613f67a351e22100 -->
+=======
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/tracygoznikar/Project-1/blob/3d6e8899b0b4cbfd6c12daccb5d51caa51de1eae/README.md">Permalink</a>
+
+    <!-- blob contrib key: blob_contributors:v22:38e6c8bf9bf73e4eb21593151d6a6a1804538e8b77ca970083f24ca1fde66928 -->
+>>>>>>> 7f943fd... csv
     
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
@@ -986,11 +1122,19 @@
             data-hotkey="w"
             title="Switch branches or tags">
       <svg text="gray" height="16" class="octicon octicon-git-branch text-gray" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path></svg>
+<<<<<<< HEAD
       <span class="css-truncate-target" data-menu-button>Wei-branch</span>
       <span class="dropdown-caret"></span>
     </summary>
 
     <details-menu class="SelectMenu SelectMenu--hasFilter" src="/tracygoznikar/Project-1/refs/Wei-branch/README.md?source_action=show&amp;source_controller=blob" preload>
+=======
+      <span class="css-truncate-target" data-menu-button>tracy-branch</span>
+      <span class="dropdown-caret"></span>
+    </summary>
+
+    <details-menu class="SelectMenu SelectMenu--hasFilter" src="/tracygoznikar/Project-1/refs/tracy-branch/README.md?source_action=show&amp;source_controller=blob" preload>
+>>>>>>> 7f943fd... csv
       <div class="SelectMenu-modal">
         <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
           <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 24 24" version="1.1" width="32" aria-hidden="true"><path d="M7.75 11c-.69 0-1.25.56-1.25 1.25v1.5a1.25 1.25 0 102.5 0v-1.5C9 11.56 8.44 11 7.75 11zm1.27 4.5a.469.469 0 01.48-.5h5a.47.47 0 01.48.5c-.116 1.316-.759 2.5-2.98 2.5s-2.864-1.184-2.98-2.5zm7.23-4.5c-.69 0-1.25.56-1.25 1.25v1.5a1.25 1.25 0 102.5 0v-1.5c0-.69-.56-1.25-1.25-1.25z"></path><path fill-rule="evenodd" d="M21.255 3.82a1.725 1.725 0 00-2.141-1.195c-.557.16-1.406.44-2.264.866-.78.386-1.647.93-2.293 1.677A18.442 18.442 0 0012 5c-.93 0-1.784.059-2.569.17-.645-.74-1.505-1.28-2.28-1.664a13.876 13.876 0 00-2.265-.866 1.725 1.725 0 00-2.141 1.196 23.645 23.645 0 00-.69 3.292c-.125.97-.191 2.07-.066 3.112C1.254 11.882 1 13.734 1 15.527 1 19.915 3.13 23 12 23c8.87 0 11-3.053 11-7.473 0-1.794-.255-3.647-.99-5.29.127-1.046.06-2.15-.066-3.125a23.652 23.652 0 00-.689-3.292zM20.5 14c.5 3.5-1.5 6.5-8.5 6.5s-9-3-8.5-6.5c.583-4 3-6 8.5-6s7.928 2 8.5 6z"></path></svg>
@@ -1002,9 +1146,15 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal mx-0 mx-md-3 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
+<<<<<<< HEAD
         <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/tracygoznikar/Project-1/tree/Wei-branch"><span>Project-1</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
       </h2>
       <a href="/tracygoznikar/Project-1/find/Wei-branch"
+=======
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/tracygoznikar/Project-1/tree/tracy-branch"><span>Project-1</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+      </h2>
+      <a href="/tracygoznikar/Project-1/find/tracy-branch"
+>>>>>>> 7f943fd... csv
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
             data-pjax
             data-hotkey="t">
@@ -1017,7 +1167,11 @@
 </summary>  <div>
     <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
+<<<<<<< HEAD
               <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:302486898,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/Wei-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="0679bb45a2ae41820d158fe4e12d7ebad02ebd30f6f4303e88f855acce11e75c" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/tracygoznikar/Project-1/find/Wei-branch">
+=======
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:302486898,&quot;originating_url&quot;:&quot;https://github.com/tracygoznikar/Project-1/blob/tracy-branch/README.md&quot;,&quot;user_id&quot;:69022168}}" data-hydro-click-hmac="a97b07f1370bfff1e019208a9e98556cf454051f21f9144740a6f3bc9d42ab5c" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/tracygoznikar/Project-1/find/tracy-branch">
+>>>>>>> 7f943fd... csv
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small text-gray" aria-hidden="true">T</span>
 </a>            </li>
@@ -1041,7 +1195,11 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
+<<<<<<< HEAD
       <include-fragment src="/tracygoznikar/Project-1/contributors/Wei-branch/README.md" class="commit-loader">
+=======
+      <include-fragment src="/tracygoznikar/Project-1/contributors/tracy-branch/README.md" class="commit-loader">
+>>>>>>> 7f943fd... csv
         <div class="Box-header Box-header--blue d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -1064,16 +1222,27 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
+<<<<<<< HEAD
       1289 lines (1013 sloc)
       <span class="file-info-divider"></span>
     109 KB
+=======
+      2 lines (2 sloc)
+      <span class="file-info-divider"></span>
+    36 Bytes
+>>>>>>> 7f943fd... csv
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
+<<<<<<< HEAD
       <a href="/tracygoznikar/Project-1/raw/Wei-branch/README.md" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
         <a href="/tracygoznikar/Project-1/blame/Wei-branch/README.md" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
+=======
+      <a href="/tracygoznikar/Project-1/raw/tracy-branch/README.md" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
+        <a href="/tracygoznikar/Project-1/blame/tracy-branch/README.md" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
+>>>>>>> 7f943fd... csv
     </div>
 
     <div>
@@ -1085,13 +1254,21 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
           </a>
 
+<<<<<<< HEAD
           <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/tracygoznikar/Project-1/edit/Wei-branch/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="goXl54bj/CwNCFT7UsSU3wzeZqg1Cjoknb305pCo2xOXoRXySEsgkPn7YuptBtjq5ZsWDvOBocWJYREgjyPe1w==" />
+=======
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/tracygoznikar/Project-1/edit/tracy-branch/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1fckRDoyJD0OO7ZXlCziu18dUPWizsPcOfp4gMeFrZ3NKML424e1/PvHxlkGU4mL0lKFf0I63TJVPWKyAAZfyQ==" />
+>>>>>>> 7f943fd... csv
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit this file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
             </button>
 </form>
+<<<<<<< HEAD
           <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/tracygoznikar/Project-1/delete/Wei-branch/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="eyyCBamEsunfuM0is0Q66bZIna+cmdGlZvL1fnJqHa7hzv12LLjb/g/ShqDfNjHnYoYBFa6QAjiV4n4Ggk0MYQ==" />
+=======
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/tracygoznikar/Project-1/delete/tracy-branch/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="iyOo/pm+db+dpCQW2oRuQdbsn6AxJv+7pJAhj5VQR7ca3T9Po7nbnZmxUmlzQ5JCybB0hwEwC3A1299nU1J0ww==" />
+>>>>>>> 7f943fd... csv
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete this file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
@@ -1102,6 +1279,7 @@
 
       
   <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
+<<<<<<< HEAD
     <article class="markdown-body entry-content container-lg" itemprop="text">
 
   
@@ -2071,6 +2249,11 @@ Insights
   
 
 </div></article>
+=======
+    <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-project-1" class="anchor" aria-hidden="true" href="#project-1"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Project-1</h1>
+<p>Data Bootcamp Project 1</p>
+</article>
+>>>>>>> 7f943fd... csv
   </div>
 
     </div>
