@@ -3,8 +3,8 @@
 - 1st
 - 2nd
 
-```shell
- Conda env list
+```Presentation Slides:
+https://docs.google.com/presentation/d/13CExRCH5i55HlO0bOqVX7NtBwMOI-wOC2fZYMPdDwsQ/edit#slide=id.g9d3ba08797_1_5
 ```
 
 ## Project Title: TBD
